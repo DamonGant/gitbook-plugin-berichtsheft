@@ -1,0 +1,11 @@
+{
+  "name": "gitbook-plugin-berichtsheft",
+  "version": "0.0.1",
+  "description": "Plugin to add elements required by the IHK (german) for apprentice report sheets.",
+  "engines": {
+    "gitbook": ">1.x.x"
+  },
+  "dependencies": {
+    "moment": "^2.13.0"
+  }
+}

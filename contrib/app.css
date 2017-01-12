@@ -1,0 +1,14 @@
+.signature-field {
+  position:relative;
+  width: 30%;
+  margin: 0 1.65%;
+  padding: 0 10px;
+  border-top: 1px solid;
+  margin-top: 80px;
+  float:left;
+}
+
+.notes {
+  border: 1px solid;
+  height: 180px;
+}

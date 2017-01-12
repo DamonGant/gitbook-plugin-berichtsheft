@@ -1,10 +1,17 @@
 {
   "name": "gitbook-plugin-berichtsheft",
-  "version": "0.0.1",
-  "description": "Plugin to add elements required by the IHK (german) for apprentice report sheets.",
+  "version": "0.0.2",
+  "description": "Plugin to add elements required by the IHK for apprenticeship report sheets.",
   "engines": {
     "gitbook": ">1.x.x"
   },
+  "repository": "git://github.com/schittler/gitbook-plugin-berichtsheft.git",
+  "author": {
+    "name": "Alexander Schittler",
+    "email": "me@damongant.de",
+    "url": "https://deniableplausibility.net"
+  },
+  "license": "GPL-3",
   "dependencies": {
     "moment": "^2.13.0"
   }
